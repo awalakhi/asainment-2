@@ -1,0 +1,232 @@
+.header-container{
+   
+    background-color: antiquewhite;
+    
+}
+.header,.key {
+    display: flex;
+  
+
+}
+.header-g3{
+   padding-left:50px ;
+    padding-top: 30px;
+    width: 280px;
+    font-weight: 800;
+    font-size: 40px;
+    font-family: fantasy;
+}
+
+
+.key{
+    gap: 100px;
+    padding-left: 1500px;
+    padding-top: 60px;
+    font-size: 18px;
+    font-weight: 900;
+
+}
+/* header-taitel */
+.header-taitel{
+    padding-top: 100px;
+    font-weight: 900;
+    font-size: 35px;
+    color: #131313;
+    text-align: center;
+
+}
+.header-dtails{
+    font-size: 25px;
+    color: #727272;
+}
+.bt{
+    text-align: center;
+    padding-bottom:35px ;
+    
+}
+.header-btn{
+    background-color: coral;
+    border-radius: 15px;
+    font-size: 20px;
+    padding: 10px;
+     border: none;
+     height: 80px;
+     width: 200px;
+     color: #FFFFFF;
+    
+}
+.header-container img{
+    padding: 50px;
+    padding-left:560px ;
+}
+
+/*======== main---------- */
+.main{
+    display: flex;
+    
+}
+
+.main1{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    padding:100px ;
+}
+.main1 img{
+    padding: 20px;
+}
+.main2{
+    padding-top:400px ;
+}
+.main2 .Quick {
+    font-size: 70px;
+    color: #727272;
+    font-weight: 800;
+}
+.main2 .of{
+    font-size: 70px;
+    font-weight: 800;
+}
+.main2 .Features{
+    font-size: 70px;
+   color: darkorange;
+   font-weight: 800;
+}
+.main2-datile{
+    font-size: 25px;
+    color: #727272;
+}
+.main2-btn{
+    width: 130px;
+    height: 60px;
+    font-size: 18px;
+    background-color:darkorange;
+    border-radius: 10px;
+    border: none;
+    color: #FFFFFF;
+    padding: 10px;
+}
+/* middle............... */
+.nav-dari{
+    margin-left:100px ;
+    margin-top:75px;
+    border: 1px solid;
+    width: 6px;
+    height: 125px;
+    background-color:rgb(247, 141, 65) ;
+    border: none;
+}
+.middal nav{
+    display: flex;
+}
+.nav-titel{
+    margin-left:30px ;
+    font-size: 60px;
+    font-weight: 900;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.nav-ditaile{
+    font-size: 25px;
+    color:#727272;
+}
+.m-d h2{
+    font-size: 35px;
+    font-weight: 600;
+    color: #131313;
+}
+.m-d p{
+    font-size: 25px;
+    color:#727272;
+
+}
+.m-d{
+    margin-left:110px ;
+    background-color:azure;
+    width: 750px;
+}
+.middal2{
+  
+  margin-left: 1000px;
+  margin-top: -1100px;
+    
+}
+.middal2 button span{
+    font-size: 35px;
+    font-weight: 900;
+}
+
+.middal2 button{
+    font-size: 20px;
+    background-color:darkorange ;
+    color: #FFFFFF;
+    width: 200px;
+    height: 130px;
+    border-radius: 5px;
+    border: none;
+    margin-left: -90px;
+    margin-top: -90px;
+
+}
+/* Some Facts---------------- */
+
+
+.Some h2{
+    font-size: 50px;
+    font-weight: 800;
+    margin-left: 60px;
+}
+
+.Some p{
+    font-size: 25px;
+    color: #727272;
+    margin-left: 60px;
+}
+
+/* icon============== */
+
+.icon-container{
+    display: flex;
+    gap: 150px;
+    margin-left:200px ;
+   
+}
+.icon{
+    border: 2px solid chocolate ;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    padding: 20px;
+
+}
+.icon h3{
+    font-size: 30px;
+}
+.icon h3,p {
+    color: #727272;
+}
+
+/* Sponspors---------- */
+.Sponspors{
+    text-align: center;
+}
+.Sponspors h2{
+    font-size: 60px;
+    font-weight: 900;
+}
+.Sponspors p{
+    font-size: 25px;
+    color: #727272;
+}
+/* Sponspors-icon---------- */
+
+.Sponspors-icon{
+    display: flex;
+    gap: 300px;
+    margin-left:200px ;
+}
+.Sponspors-icon am{
+    color: #727272;
+}
+.Sponspors-icon s{
+    
+}
+   
