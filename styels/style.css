@@ -207,6 +207,7 @@
 /* Sponspors---------- */
 .Sponspors{
     text-align: center;
+    margin-top: 200px;
 }
 .Sponspors h2{
     font-size: 60px;
@@ -219,14 +220,34 @@
 /* Sponspors-icon---------- */
 
 .Sponspors-icon{
+    margin-top: 150px;
+    margin-bottom: 150px;
     display: flex;
     gap: 300px;
     margin-left:200px ;
 }
-.Sponspors-icon am{
-    color: #727272;
-}
-.Sponspors-icon s{
+
+/* footer----------- */
+footer{
+    background-color:antiquewhite;
+    width: 1300px;
+    height: 100px;
+    border-radius: 10px;
+    text-align: center;
+    margin-left:300px ;
+    margin-top: 100px;
+    margin-bottom: 300px;
+    padding-top:50px ;
     
 }
+/* ===========hover section ----------------*/
+
+
+.main:hover,.Some h2:hover{
+background-color: chartreuse;
+
+}
+
+ 
+
    
